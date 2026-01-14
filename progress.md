@@ -31,4 +31,11 @@ Bought new screws to secure the big servos to connect the lower jaw
 Glued Servos to the 3D-printed structural parts
 
 ### Day 7 - 01/09/26
-Tested the servos and created [the jaw tester](two_servo_async/two_servo_async.ino) and ran into troubles with Servo0/Servo-Right. Its one of the big ones and it seems to be broken, as it stutteres and heats up the MOSFETs on my 5V PSU to a dangerously high temperature.
+Tested the servos and created [the jaw tester](code/two_servo_async/two_servo_async.ino) and ran into troubles with Servo0/Servo-Right. Its one of the big ones and it seems to be broken, as it stutteres and heats up the MOSFETs on my 5V PSU to a dangerously high temperature.
+
+### Day 8 - 01/14/26
+While unpacking, i noticed that the [left jaw connector](Animatronic_Mouth_Download_Pack/STLs/Structural/Jaw%20Linkage%20Right.stl) was broken below the lower screwhole. I fixed it with some superglue, but its still annoying.
+    <details>
+        <summary>image of the broken part</summary>
+        <img src="img/IMG_6669.webp" alt="the broken part" width="200"/>
+    </details>
