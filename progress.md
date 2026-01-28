@@ -39,3 +39,9 @@ While unpacking, i noticed that the [left jaw connector](Animatronic_Mouth_Downl
         <summary>image of the broken part</summary>
         <img src="img/IMG_6669.webp" alt="the broken part" width="200"/>
     </details>
+
+### Day 9 - 01/23/26
+I didnt really do much, exept design an adapter to use a small servo in the place of the big servo. I had that idea, so the jaw can be stable, and powered from both sides. Else it'll most likely hang on the unpowered side, which can put stress on the parts. I mostly finished it, but'll have to finish it.
+
+### Day 10 - 01/28/26
+Started by updating the progress.md and finished the [Servo Converter](3d-files/servo_converter.3mf)
