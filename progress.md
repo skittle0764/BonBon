@@ -45,3 +45,15 @@ I didnt really do much, exept design an adapter to use a small servo in the plac
 
 ### Day 10 - 01/28/26
 Started by updating the progress.md and finished the [Servo Converter](3d-files/servo_converter.3mf)
+
+### Day 11 - 02/06/26
+Helped out with the other projects from my class
+
+### Day 12 - 02/11/26
+Digitally assembled the whole thing to prepare it to add the faceplate machanisms
+
+### Day 13 - 02/27/26
+Fixed the corrupted assembly file
+
+### Day 14 - 03/04/26
+Working on the documentation and slideshow
